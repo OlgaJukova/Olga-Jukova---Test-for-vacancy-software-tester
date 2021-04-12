@@ -44,7 +44,7 @@ type
 var
   AboutTheKnight: TAboutTheKnight;
 
-  step:Integer;    // counter for timers
+  step:Integer;    // Counter for timers
 
 
 
