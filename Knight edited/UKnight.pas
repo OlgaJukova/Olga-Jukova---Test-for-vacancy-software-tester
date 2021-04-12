@@ -47,7 +47,6 @@ type
     Lbl_CalcTime: TLabel;
     Timer_CalcTime: TTimer;
     AbouttheKnight1: TMenuItem;
-    AbouttheProgram1: TMenuItem;
     procedure FormCreate(Sender: TObject);
     procedure Pbx_ChessBoardPaint(Sender: TObject);
     procedure DeselectStartPosMode;
